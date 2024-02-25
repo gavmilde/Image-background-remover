@@ -46,9 +46,11 @@ def main():
         output_image_path = f"{filename}.png"  # Default to .png if extension is unrecognized
 
     print(f"Using output image path: {output_image_path}")
-    
+
     # Remove the background from the input image
     remove_background(input_image_path, output_image_path)
 
 if __name__ == "__main__":
     main()
+
+# Hello, World!
