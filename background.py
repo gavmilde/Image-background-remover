@@ -54,3 +54,5 @@ if __name__ == "__main__":
     main()
 
 # Hello, World!
+# Enter the path to the input image: input.jpg
+# Enter the path to save the output image and the image name: output.png
